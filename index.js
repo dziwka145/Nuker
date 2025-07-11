@@ -32,4 +32,4 @@ client.on('messageCreate', async message => {
   }
 });
 
-client.login('YOUR_TOKEN_HERE');
+client.login('MTM5MzA1MDkxMjc3OTQwNzQxMA.Gzuf8u.z-jU1L3weW3S5TABrjQSKd9VKmMQDg1KWG6ycU');
